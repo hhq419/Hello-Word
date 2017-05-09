@@ -1,2 +1,4 @@
 # Hello-Word
-test
+<?php
+  echo "hello word";
+?>
